@@ -10,7 +10,6 @@ def bubble_sort(arr)
         arr[a] = arr[a + 1]
         arr[a + 1] = temp
         swapped = true
-      end
     end
     break unless swapped
   end
@@ -32,7 +31,6 @@ def bubble_sort_by(arr)
         arr[a] = arr[a + 1]
         arr[a + 1] = temp
         swapped = true
-      end
     end
     break unless swapped
   end
