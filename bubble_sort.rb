@@ -5,8 +5,8 @@ def bubble_sort(arr)
     swapped = false
 
     (len - 1).times do |a|
-
       if arr[a] > arr[a + 1]
+        next
         temp = arr[a]
         arr[a] = arr[a + 1]
         arr[a + 1] = temp
@@ -28,6 +28,7 @@ def bubble_sort_by(arr)
 
     (len - 1).times do |a|
       if yield(arr[a], arr[a + 1]).positive?
+        next
         temp = arr[a]
         arr[a] = arr[a + 1]
         arr[a + 1] = temp
@@ -38,7 +39,7 @@ def bubble_sort_by(arr)
   end
   arr
 end
-sort_by = bubble_sort_by(%w[hi, hello, hey]) do |left, right|
+sort_by = bubble_sort_by(%w[hi hello hey]) do |left, right|
   left.length - right.length
 end
 p sort_by
