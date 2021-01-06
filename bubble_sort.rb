@@ -5,8 +5,7 @@ def bubble_sort(arr)
     swapped = false
 
     (len - 1).times do |a|
-      next
-      if arr[a] > arr[a + 1]
+      next if arr[a] > arr[a + 1]
         temp = arr[a]
         arr[a] = arr[a + 1]
         arr[a + 1] = temp
@@ -27,8 +26,7 @@ def bubble_sort_by(arr)
     swapped = false
 
     (len - 1).times do |a|
-      next
-      if yield(arr[a], arr[a + 1]).positive?
+      next if yield(arr[a], arr[a + 1]).positive?
         temp = arr[a]
         arr[a] = arr[a + 1]
         arr[a + 1] = temp
