@@ -20,8 +20,8 @@ GitHub: @Tasheka
 LinkedIn: https://www.linkedin.com/in/tasheka-hamilton-43532311b
  
 
-# 🤝 Contributing Contributions, issues, and feature requests are welcome!
+ 🤝 Contributing Contributions, issues, and feature requests are welcome!
 
 Show your support Give a ⭐️ if you like this project!
 
-# 📝 License This project is MIT licensed.
+ 📝 License This project is MIT licensed.
