@@ -6,7 +6,6 @@ Built With:
 
 Ruby
 
-
 Authors
 
 👤 Author1
@@ -17,7 +16,6 @@ GitHub: @Gracetemitope Twitter: @DevGrachy LinkedIn: https://www.linkedin.com/in
 
 GitHub: @Tasheka  LinkedIn: linkedin.com/in/tasheka-hamilton-43532311b
  
-
 🤝 Contributing Contributions, issues, and feature requests are welcome!
 
 Show your support Give a ⭐️ if you like this project!
