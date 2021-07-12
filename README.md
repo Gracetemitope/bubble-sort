@@ -20,7 +20,7 @@ GitHub: @Tasheka
 LinkedIn: https://www.linkedin.com/in/tasheka-hamilton-43532311b
  
 
-🤝 Contributing Contributions, issues, and feature requests are welcome!
+🤝 Contributions, issues, and feature requests are welcome!
 
 Show your support Give a ⭐️ if you like this project!
 
