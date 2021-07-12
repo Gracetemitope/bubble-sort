@@ -1,0 +1,6 @@
+1. Define a method
+2. Create a for loop to iterate through the array
+3. Create a conditional statement that checks two values at a time
+    3a. If the first value is less, the order remains the same. eg. 2 3 --> 2 3
+    3b. If the first value is more, the order is switched. eg. 3 2 --> 2 3
+4. Output the sorted list
